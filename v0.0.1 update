@@ -1,0 +1,307 @@
+1	+
+2	+                                FantasyCraft
+3	+
+4	+
+5	+
+6	+
+7	+Concepts
+8	+
+9	+
+10	+1 Classes
+11	+
+12	+
+13	+1 Soldier
+14	+
+15	+                 The Solder's main atrributes are HP and Strength.
+16	+
+17	+Defender Sub-class
+18	+
+19	+The Defender focuses on defense and can use the best armours. Gains
+20	+additional armour bonus.
+21	+
+22	+Paladin Sub-class
+23	+
+24	+The Paladin can use Holy/Divine materia and secialises on using enemy
+25	+specific weapons.
+26	+
+27	+Beserker Sub-class
+28	+
+29	+The Beserker focuses on Strength and can use some of the most powerful
+30	+weapons in the game.
+31	+
+32	+
+33	+2 Thief
+34	+
+35	+                 The Thief's main attributes are Mana and Dexterity
+36	+
+37	+Trickster Sub-class
+38	+
+39	+The trickster focuses on decoys and traps.
+40	+
+41	+Assassin Sub-class
+42	+
+43	+The Assassin focuses on remaining hidden and raw damage.
+44	+
+45	+Ninja Sub-class
+46	+
+47	+The Ninja Sub-class focuses on movement on land and sea with great
+48	+profesioncy.
+49	+
+50	+
+51	+3 Archer
+52	+
+53	+                 The Archers main atrributes are Dexterity and Strength.
+54	+
+55	+Sniper Sub-class
+56	+
+57	+The Sniper focuses on Dexterity and can use the best bows.
+58	+
+59	+Dualist Sub-class
+60	+
+61	+The Dualist focuses on Strength and melee attacks.
+62	+
+63	+Elemental Archer Sub-class
+64	+
+65	+The elemental archer focuses on Dexterity and can use the best elemental
+66	+enchanted bows.
+67	+
+68	+
+69	+
+70	+
+71	+4 Monk
+72	+
+73	+                 The Monk's main attributes are Intelligence and Dexterity
+74	+
+75	+Boxer Sub-class
+76	+
+77	+The Boxer focuses on Strength and can use the best gloves.
+78	+
+79	+ Master Subclass
+80	+
+81	+The Master focuses on Dexterity and use the best monk weapons.
+82	+
+83	+Healer Subclass
+84	+
+85	+The Healer focuses on Mana and can use the best Healing materia.
+86	+
+87	+
+88	+5 Mage
+89	+
+90	+                 The Mage's main attributes are Mana and Intelligence
+91	+
+92	+Sorcerer Sub-class
+93	+
+94	+The Sorcerer focuses on Inteligence and can use the best elemental materia.
+95	+
+96	+Conjurer Sub-class
+97	+
+98	+The Conjurer focuses on Mana and can use the best creature summoning
+99	+materia.
+100	+
+101	+Battle-Mage Sub-class
+102	+
+103	+The Battle-Mage focuses on Strength and can use the best weapon summoning
+104	+materia.
+105	+
+106	+
+107	+2 Multi-Class
+108	+
+109	+      For the use of additional classes at the same time. This includes two
+110	+additional types of classes; Sub-Class and Utility Class.
+111	+
+112	+
+113	+
+114	+Sub-Class
+115	+
+116	+These are advanced classes for experianced players and require a max level
+117	+class and a complex multi-structure(yet to be named).
+118	+
+119	+Utility Class
+120	+
+121	+The purpose of this class is to promote team work and/or trade between
+122	+players aswell as gathering bonuses dependant on utility class.
+123	+
+124	+Gatherer
+125	+
+126	+The Gatherer gets bonuses to collecting resources and can use advanced
+127	+gathering tools.
+128	+
+129	+Smithy
+130	+
+131	+The Smithy gets bonuses to refining ores and can use advanced metal working
+132	+machines.
+133	+
+134	+
+135	+
+136	+
+137	+
+138	+Enchanter
+139	+
+140	+The Enchanter gets bonuses to refining materia and can use advanced
+141	+enchanting tools.
+142	+
+143	+Brewer
+144	+
+145	+The Brewer gets bonuses to brewing potions and can use advanced brewing
+146	+tools.
+147	+
+148	+
+149	+3 Stats
+150	+
+151	+
+152	+1 Level/EXP
+153	+
+154	+
+155	+2 HP
+156	+
+157	+
+158	+3 MP
+159	+
+160	+
+161	+4 Strength
+162	+
+163	+
+164	+5 Dexterity
+165	+
+166	+
+167	+6 Intelligence
+168	+
+169	+
+170	+4 Ancient Grimoire (Multiple Grimoires?)
+171	+
+172	+
+173	+1 Lose all items when using the Grimoire, but they are saved somehow. Same
+174	+when going back to Overworld.
+175	+
+176	+
+177	+2 Grimoire shows how many people are in the world and who they are.
+178	+
+179	+
+180	+3 Config option to disable Grimoire. Overworld becomes the world.
+181	+
+182	+
+183	+5 Recipe Scrolls
+184	+
+185	+            Recipe scrolls are dropped by mobs and are rare. Ultimate
+186	+weapon recipe scrolls are combined from any 9 scrolls(subject to change),
+187	+5% success rate(subject to change) and give a random weapon or armour if
+188	+successful. The purpose for using 9 other scrolls is to make multiple
+189	+scrolls of the same armour worthwhile collecting. Should it fail a random
+190	+lesser scroll is created.
+191	+
+192	+
+193	+6 Quests
+194	+
+195	+
+196	+7 Dimensions
+197	+
+198	+
+199	+8 Synthesis
+200	+
+201	+
+202	+Biomes
+203	+
+204	+
+205	+1 Materia/Mako Caves
+206	+
+207	+
+208	+2 Slums
+209	+
+210	+
+211	+3 Marsh (Midgar Zolom)
+212	+
+213	+
+214	+4 Chocobo Forests
+215	+
+216	+
+217	+Items
+218	+
+219	+
+220	+1 Structures
+221	+
+222	+
+223	+1 Single Block
+224	+
+225	+
+226	+2 Multi Block
+227	+
+228	+
+229	+2 Weapons
+230	+
+231	+
+232	+1 Melee
+233	+
+234	+
+235	+2 Ranged
+236	+
+237	+
+238	+3 Armour
+239	+
+240	+
+241	+1 Chestplate
+242	+
+243	+
+244	+2 Leggings
+245	+
+246	+
+247	+3 Boots
+248	+
+249	+
+250	+4 Consumables
+251	+
+252	+
+253	+5 Crafting Components
+254	+
+255	+
+256	+1 Ancient Grimoire = Enchanting Table, Nether Star, Dragon Egg and 6 Lost
+257	+Grimoire Pages
+258	+
+259	+
+260	+2 Random Grimoire Page = 2x Identical Grimoire page
+261	+
+262	+
+263	+6 Ores
+264	+
+265	+
+266	+1 Mythril
+267	+
+268	+
+269	+2 Orichalcum
+270	+
+271	+
+272	+3 Adamantite
+273	+
+274	+
+275	+4
+276	+
+277	+
+278	+Magic
+279	+
+280	+
+281	+1 Offensive
+282	+
+283	+
+284	+2 Defensive
+285	+
+286	+
+287	+3 Support
+288	+
+289	+
+290	+Enemies
+291	+
+292	+
+293	+1 Land
+294	+
+295	+
+296	+2 Air
+297	+
+298	+
+299	+3 Ocean
+300	+
+301	+
+302	+4 Biome Specific
+303	+
+304	+
+305	+Allies
+306	+
+307	+
