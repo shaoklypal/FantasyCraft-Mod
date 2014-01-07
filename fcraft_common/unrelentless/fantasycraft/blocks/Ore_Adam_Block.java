@@ -2,21 +2,21 @@ package unrelentless.fantasycraft.blocks;
 
 import unrelentless.fantasycraft.lib.Reference;
 import unrelentless.fantasycraft.lib.Strings;
+import cpw.mods.fml.relauncher.Side;
+import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IconRegister;
 import net.minecraft.creativetab.CreativeTabs;
-import cpw.mods.fml.relauncher.Side;
-import cpw.mods.fml.relauncher.SideOnly;
 
-public class MythrilOre_Block extends Block {
+public class Ore_Adam_Block extends Block {
 	
-	public MythrilOre_Block(int id){
+	public Ore_Adam_Block(int id){
 		super(id, Material.rock);
 		this.setHardness(20.0F);
 		this.setResistance(25.0F);
 		this.setCreativeTab(CreativeTabs.tabBlock);
-		this.setUnlocalizedName(Strings.MYTHRILORE_NAME);
+		this.setUnlocalizedName(Strings.ADAMORE_NAME);
 	}
 	
 	@Override
@@ -32,5 +32,4 @@ public class MythrilOre_Block extends Block {
 	protected String getUnwrappedUnlocalizedName(String name){
 		return name.substring(name.indexOf(".") + 1);
 	}
-
 }
