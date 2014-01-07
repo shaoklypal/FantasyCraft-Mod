@@ -2,7 +2,7 @@ package unrelentless.fantasycraft.lib;
 
 public class Reference {
 	//The Mod ID
-	public static final String MODID = "FCraft";
+	public static final String MODID = "fCraft";
 	//The Mod Name
 	public static final String MODNAME = "Fantasy Craft";
 	//The Mod Version
